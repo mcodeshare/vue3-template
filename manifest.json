@@ -1,0 +1,26 @@
+{
+  "name": "模块名称",
+  "description": "模块描述(非必填)",
+  "type": "H5",
+  "code": "模块编码",
+  "version": "0.1.0",
+  "git": "git地址(非必填)",
+  "remoteUrl":"发布模板地址",
+  "framework":"VUE3",
+  "entry": [
+    {
+      "id": "uuid自动生成",
+      "path": "入口PATH",
+      "params": {
+        "key": "values"
+      }
+    }
+  ],
+  "userInfo": {
+    "userId": "",
+    "userName": ""
+  },
+  "extendedOptions": {
+    "isHistoryRouter": false
+  }
+}
