@@ -1,0 +1,69 @@
+{
+  "userCode": "d579e307-9616-4691-ae35-ad172f7d4e41",
+  "userName": "乔石",
+  "rgCode": "360000001",
+  "unitCode": "049002",
+  "deptCode": null,
+  "roleId": [
+    "1611d88a-8f48-40c1-b1cf-78e7aba7b3ce",
+    "3d99aa91-c13e-4fb4-aed9-44e2d4d004a2",
+    "9ccdc5a6-7102-4f03-ac77-3f1753c728bd",
+    "b0779ae0-43f0-4fa0-8e8e-fbb61f270a24",
+    "b1ff54c6-13a0-4b26-937a-1f8c01d5c5bd",
+    "b9e4a88f-110c-41cc-a9a0-a51e2eb5d8a4"
+  ],
+  "setYear": 2023,
+  "tenantId": "bpjferf0",
+  "full": {
+    "date": "2023-06-08 00:00:00",
+    "mofdiv": {
+      "mofDivId": "2591429786423552",
+      "mofDivCode": "360000001",
+      "mofDivName": "江西省本级"
+    },
+    "role": [
+      {
+        "roleId": "1611d88a-8f48-40c1-b1cf-78e7aba7b3ce",
+        "roleCode": "0002",
+        "roleName": "财务测试"
+      },
+      {
+        "roleId": "3d99aa91-c13e-4fb4-aed9-44e2d4d004a2",
+        "roleCode": "arBillTest",
+        "roleName": "报销测试"
+      },
+      {
+        "roleId": "9ccdc5a6-7102-4f03-ac77-3f1753c728bd",
+        "roleCode": "YonDiF_Bas_Test",
+        "roleName": "YonDiF基础数据测试组"
+      },
+      {
+        "roleId": "b0779ae0-43f0-4fa0-8e8e-fbb61f270a24",
+        "roleCode": "developer1",
+        "roleName": "开发人员"
+      },
+      {
+        "roleId": "b1ff54c6-13a0-4b26-937a-1f8c01d5c5bd",
+        "roleCode": "arBillRole",
+        "roleName": "报销权限"
+      },
+      {
+        "roleId": "b9e4a88f-110c-41cc-a9a0-a51e2eb5d8a4",
+        "roleCode": "YonDiF",
+        "roleName": "YonDiF项目开发"
+      }
+    ],
+    "agency": {
+      "agencyId": "2591448325329152",
+      "agencyCode": "049002",
+      "agencyName": "江西财经大学"
+    },
+    "tenantid": "bpjferf0",
+    "dept": { "deptId": null, "deptCode": null, "deptName": null },
+    "user": {
+      "userId": "d579e307-9616-4691-ae35-ad172f7d4e41",
+      "userCode": "YHT-419-2151670475268656",
+      "userName": "乔石"
+    }
+  }
+}
