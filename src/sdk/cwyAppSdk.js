@@ -5,6 +5,8 @@
 *
 *
 **********************************************************************************************************************/
+/* 引入通信sdk */
+import CwyAppBridge from './cwyAppBridge'
 const CONFIG = {
   // 自动挂载到window.cwyAppSdk
   SDK_HOME: 'cwyAppSdk',
@@ -12,8 +14,6 @@ const CONFIG = {
   VERSION: '0.1.0'
 }
 
-/* 引入通信sdk */
-import CwyAppBridge from './cwyAppBridge'
 /* 初始化通信sdk */
 const cwyAppBridge = new CwyAppBridge({
   debug: false,//process.env.NODE_ENV === 'development',
