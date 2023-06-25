@@ -12,17 +12,4 @@ if (process.env.NODE_ENV === 'development') {
   })
 }
 
-// API调用
-// cwyAppSdk.getUserInfo({
-//   data: {},
-//   success(res) {
-//     console.log('成功', res)
-//   },
-//   fail(err) {
-//     console.log('失败', err)
-//   },
-//   complete: (res => {
-//     console.log('成功、失败都返回', res)
-//   })
-// })
 export default cwyAppSdk
